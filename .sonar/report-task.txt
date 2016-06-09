@@ -1,0 +1,5 @@
+projectKey=new:project
+serverUrl=http://172.27.59.172:9000
+dashboardUrl=http://172.27.59.172:9000/dashboard/index/new:project
+ceTaskId=AVU0oOKh_GmBJpIUhKhM
+ceTaskUrl=http://172.27.59.172:9000/api/ce/task?id=AVU0oOKh_GmBJpIUhKhM
